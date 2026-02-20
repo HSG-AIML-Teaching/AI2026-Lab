@@ -22,7 +22,7 @@ Happy Coding!
 This table lists all lab sessions incl. the launchers of the corresponding notebooks. In order to start the notebooks in the respective cloud environment just click on the to corresponding launchers. We aim to upload each lab notebook the day before the lab respectively.
 
 
-| Date                    | Lab        |  Content                         |  CoLab                 |
+| Date                    | Lab        |  Content                         |  Colab                 |
 |:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|
 | Fri, Feb. 27           | **Lab 1**   | TBA          | TBA |
 | Fri, Mar. 06            | **Lab 2**   | TBA | TBA |
