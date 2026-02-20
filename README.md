@@ -4,7 +4,7 @@ Welcome Spring Semester 2026 students to our course **Artificial Intelligence**,
 
 Lectures, exercise sheets and hands-on lab courses alternate to provide a better learning experience in this course. The materials for Artificial Intelligence labs are available and accessible through this repository.
 
-The lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org) and [PyTorch](https://pytorch.org). This repository is supported by the course TAs [Konstantinos Tzevelekakis]([https://ics.unisg.ch/the-institute/about-us/team/detail/person-id/a83aef88-deb5-4fda-a878-2e6fd091a1ce/](https://ics.unisg.ch/the-institute/about-us/team/detail/person-id/a83aef88-deb5-4fda-a878-2e6fd091a1ce/)) and [Aron Asefaw]([https://ics.unisg.ch/the-institute/about-us/team/detail/person-id/d5a6c2e4-76cc-4ae5-aba2-f90244dd8c9d/](https://ics.unisg.ch/the-institute/about-us/team/detail/person-id/51e76fca-37cd-4d91-a230-12a6540ec575/))).
+The lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org) and [PyTorch](https://pytorch.org). This repository is supported by the course TAs [Konstantinos Tzevelekakis](https://ics.unisg.ch/the-institute/about-us/team/detail/person-id/a83aef88-deb5-4fda-a878-2e6fd091a1ce/](https://ics.unisg.ch/the-institute/about-us/team/detail/person-id/a83aef88-deb5-4fda-a878-2e6fd091a1ce/)) and [Aron Asefaw](https://ics.unisg.ch/the-institute/about-us/team/detail/person-id/d5a6c2e4-76cc-4ae5-aba2-f90244dd8c9d/](https://ics.unisg.ch/the-institute/about-us/team/detail/person-id/51e76fca-37cd-4d91-a230-12a6540ec575/))).
 
 
 Happy Coding!
