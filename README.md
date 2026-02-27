@@ -24,17 +24,16 @@ This table lists all lab sessions incl. the launchers of the corresponding noteb
 
 | Date                    | Lab        |  Content                         |  Colab                 |
 |:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|
-| Fri, Feb. 27           | **Lab 1**   | TBA          | TBA |
-| Fri, Mar. 06            | **Lab 2**   | TBA | TBA |
-| Fri, Mar. 13            | **Lab 3**   | TBA  |TBA |
-| Fri, Mar. 20            | **Lab 4**   | TBA     | TBA|
-| Fri, Mar. 27            | **Lab 5**   | TBA    | TBA |
-| Fri, Apr. 17            | **Lab 6**   | TBA    |TBA |
-| Fri, Apr. 24            | **Lab 7**   | TBA     | TBA|
-| Fri, May 1            | **Lab 8**   | TBA    | TBA |
-| Fri, May 8            | **Lab 9**   | TBA   |TBA |
-| Fri, May 15            | **Lab 10**   | TBA    | TBA|
-| Fri, May 22            | **Lab 11**   | TBA    | TBA |
+| Fri, Mar. 06            | **Lab 1**   | TBA | TBA |
+| Fri, Mar. 13            | **Lab 2**   | TBA  |TBA |
+| Fri, Mar. 20            | **Lab 3**   | TBA     | TBA|
+| Fri, Mar. 27            | **Lab 4**   | TBA    | TBA |
+| Fri, Apr. 17            | **Lab 5**   | TBA    |TBA |
+| Fri, Apr. 24            | **Lab 6**   | TBA     | TBA|
+| Fri, May 1            | **Lab 7**   | TBA    | TBA |
+| Fri, May 8            | **Lab 8**   | TBA   |TBA |
+| Fri, May 15            | **Lab 9**   | TBA    | TBA|
+| Fri, May 22            | **Lab 10**   | TBA    | TBA |
 
 ## Running the Course Code Lab Notebooks using Google Colab Environment ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAAA/blob/main))
 
