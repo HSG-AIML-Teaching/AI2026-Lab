@@ -35,7 +35,7 @@ This table lists all lab sessions incl. the launchers of the corresponding noteb
 | Fri, May 15            | **Lab 9**   | TBA    | TBA|
 | Fri, May 22            | **Lab 10**   | TBA    | TBA |
 
-## Running the Course Code Lab Notebooks using Google Colab Environment ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main))
+## Running the Course Code Lab Notebooks using Google Colab Environment 
 
 You just have to click the Colab badge next to the Notebooks below. All you need is a Google login
 (e.g., your login information for gmail) and you can use this service at no charge.
