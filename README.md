@@ -12,7 +12,7 @@ Happy Coding!
 ## Course Logistics
 
 - **Lectures:** Fridays 10:15-12:00PM CET, in person at Rosenbergstrasse 30 - room 61-070.
-- **Exercises and Labs:** Fridays 2:15-3:45PM CET, in person at 83-1235.
+- **Exercises and Labs:** Fridays 2:15-3:45PM CET, in person at 61-070/61-152.
 
 <!-- - **Labs Office Hours:** Thursdays 2:00-3:00PM CET ([Joëlle Hanna](https://www.alexandria.unisg.ch/entities/person/Joelle_Hanna/indicators)) or Tuesdays 11:00-12:00PM CET ([Hamed Hemati](https://www.alexandria.unisg.ch/entities/person/Hamed_Hemati/indicators)), please send us a corresponding invitation via mail. -->
 - **Announcements:** All course-related announcements and questions will happen on Canvas.
@@ -26,7 +26,7 @@ This table lists all lab sessions incl. the launchers of the corresponding noteb
 |:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|
 | Fri, Mar. 06            | **Lab 1**   | Search | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_01/lab_01.ipynb)  |
 | Fri, Mar. 13            | **Lab 2**   | Evaluation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_02/lab_02.ipynb)|
-| Fri, Mar. 20            | **Lab 3**   | TBA     | TBA|
+| Fri, Mar. 20            | **Lab 3**   | Supervised Learning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_03/lab_03.ipynb)|
 | Fri, Mar. 27            | **Lab 4**   | TBA    | TBA |
 | Fri, Apr. 17            | **Lab 5**   | TBA    |TBA |
 | Fri, Apr. 24            | **Lab 6**   | TBA     | TBA|
