@@ -28,7 +28,7 @@ This table lists all lab sessions incl. the launchers of the corresponding noteb
 | Fri, Mar. 13            | **Lab 2**   | Evaluation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_02/lab_02.ipynb)|
 | Fri, Mar. 20            | **Lab 3**   | Supervised Learning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_03/lab_03.ipynb)|
 | Fri, Mar. 27            | **Lab 4**   | SVMs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_04/lab_04.ipynb) |
-| Fri, Apr. 17            | **Lab 5**   | TBA    |TBA |
+| Fri, Apr. 17            | **Lab 5**   | Unsupervised Learning    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_05/lab_05.ipynb) |
 | Fri, Apr. 24            | **Lab 6**   | TBA     | TBA|
 | Fri, May 1            | **Lab 7**   | TBA    | TBA |
 | Fri, May 8            | **Lab 8**   | TBA   |TBA |
