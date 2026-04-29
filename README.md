@@ -30,7 +30,7 @@ This table lists all lab sessions incl. the launchers of the corresponding noteb
 | Fri, Mar. 27            | **Lab 4**   | SVMs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_04/lab_04.ipynb) |
 | Fri, Apr. 17            | **Lab 5**   | Unsupervised Learning    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_05/lab_05.ipynb) |
 | Fri, Apr. 24            | **Lab 6**   | Neural Networks I | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_06/lab_06.ipynb)  |
-| Fri, May 1            | **Lab 7**   | TBA    | TBA |
+| Fri, May 1            | **Lab 7**   | Neural Networks II    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_07/lab_07.ipynb) |
 | Fri, May 8            | **Lab 8**   | TBA   |TBA |
 | Fri, May 15            | **Lab 9**   | TBA    | TBA|
 | Fri, May 22            | **Lab 10**   | TBA    | TBA |
