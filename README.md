@@ -32,8 +32,7 @@ This table lists all lab sessions incl. the launchers of the corresponding noteb
 | Fri, Apr. 24            | **Lab 6**   | Neural Networks I | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_06/lab_06.ipynb)  |
 | Fri, May 1            | **Lab 7**   | Neural Networks II    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_07/lab_07.ipynb) |
 | Fri, May 8            | **Lab 8**   | CNNs   |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_08/lab_08.ipynb) |
-| Fri, May 15            | **Lab 9**   | TBA    | TBA|
-| Fri, May 22            | **Lab 10**   | TBA    | TBA |
+| Fri, May 15            | **Lab 9**   | RNNs    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2026-Lab/blob/main/lab_09/lab_09.ipynb)|
 
 ## Running the Course Code Lab Notebooks using Google Colab Environment 
 
